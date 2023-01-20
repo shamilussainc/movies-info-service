@@ -1,2 +1,4 @@
 # movies-info-service
-Movies-info-service is an API that provides extensive information on movies, including details on title, release date, cast, plot summary, and more. It allows for easy integration into other applications, making it a great choice for developers looking to build movie-related projects.
+Movies-info-service is a comprehensive API service that provides a wealth of information on movies. In addition to basic information such as title, release date, cast, and plot summary, the service also provides detailed information such as movie ratings, reviews, trailers, posters, box office data and more. Users can also access additional information such as the budget, revenue, production companies, runtime and more. 
+
+This service is a one-stop-shop for movie information, making it an ideal choice for developers looking to build movie-related applications and websites.
